@@ -57,7 +57,7 @@ Este proyecto consiste en el análisis exploratorio de un producto bancario con 
 Puedes clonar este repositorio y ejecutar los notebooks de forma local:
 
 ```bash
-git clone https://github.com/carlosglezs/Proyecto_Python_Data.git
+git clone https://github.com/carlosglezs/EDA_Banco.git
 cd EDA_banco
 ```
 
